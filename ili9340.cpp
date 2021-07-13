@@ -14,7 +14,7 @@
 	You should have received a copy of the GNU General Public License
 	along with FORTMAX.  If not, see <http://www.gnu.org/licenses/>.
 
-	Copyright: Martin K. Schröder (info@fortmax.se) 2014
+	Copyright: SQUIRREL COMPUTERS 2021
 */
 
 #include "ili9340.h"
