@@ -12,8 +12,7 @@
 #include <EEPROM.h>
 
 /**  
-  VT-100 code Copyright: Martin K. Schröder (info@fortmax.se) 2014/10/27
-  Conversion to Arduino, additional codes and this page by Peter Scargill 2016
+  PCI/OS code Copyright: SQUIRREL COMPUTERS 21/07/13
 */
 
 #include "ili9340.h"
